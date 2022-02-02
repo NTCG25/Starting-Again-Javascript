@@ -12,3 +12,5 @@ h.then((message) => {
 }).catch((message) => {
     console.log("This is in the catch: " + message )
 })
+
+// 4:52 
